@@ -35,8 +35,8 @@ During this analysis we prepared two codes that returned the same results, the o
 
 Original Code Run Times:
 
-![2017runtime](Resources/2017 original run time.PNG)                            ![2018runtime](Resources/VBA_Challenge_2017.PNG)  
+![2017runtime](Resources/originalRunTime2017.PNG)                            ![2018runtime](Resources/originalRunTime2018.PNG)  
 
 Refactored Code Run Times:
 
-![2017runtimeR](Resources/VBA_Challenge_2017.PNG)                           ![2018runtimeR](Resources/VBA_Challenge_2017.PNG)  
+![2017runtimeR](Resources/VBA_Challenge_2017.PNG)                           ![2018runtimeR](Resources/VBA_Challenge_2018.PNG)  
